@@ -1,0 +1,14 @@
+body{
+    background-color: coral;
+}
+
+h1{
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+p{
+   color: aliceblue;
+   text-align: center;
+}
